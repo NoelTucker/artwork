@@ -2,9 +2,8 @@
 
 body{
   background:#D5F2DD;
-  color:#FF0000;
   font-family:'Lexend';
-  padding:10em;
+  padding:0 5em;
 }
 
 a{
@@ -15,13 +14,13 @@ a{
 .gallery{
   display:flex;
   flex-wrap:wrap;
-  justify-content:flex-start;
+  justify-content:center;
 }
 
 .gallery-item{
-  margin:5px;
-  border:1px solid #0C4466;
-  width:180px;
+  margin:0.5em;
+  border:0.1em solid #0C4466;
+  width:10em;
 }
 
 .gallery-item img{
@@ -29,6 +28,7 @@ a{
 }
 
 .gallery-item div{
-  padding:15px;
+  font-size:small;
+  padding:1em;
   text-align:center;
 }
