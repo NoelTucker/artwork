@@ -11,3 +11,24 @@ a{
   color:#3C78D8;
   text-decoration:none;
 }
+
+.gallery{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+}
+
+.gallery-item{
+  margin:5px;
+  border:1px solid #0C4466;
+  width:180px;
+}
+
+.gallery-item img{
+  width:100%;
+}
+
+.gallery-item div{
+  padding:15px;
+  text-align:center;
+}
