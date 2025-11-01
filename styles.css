@@ -25,6 +25,7 @@ a{
 
 .gallery-item img{
   width:100%;
+  border:0.1em solid #0C4466;
 }
 
 .gallery-item div{
