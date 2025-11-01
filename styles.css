@@ -18,11 +18,12 @@ a{
 }
 
 .gallery-item{
+  width:15em;
   margin:0.5em;
 }
 
 .gallery-item img{
-  width:15em;
+  width:100%;
   border:0.1em solid #0C4466;
 }
 
