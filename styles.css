@@ -17,24 +17,21 @@ a{
   justify-content:center;
 }
 
-.gallery-image{
+.gallery-item{
   margin:0.5em;
+}
+
+.gallery-item img{
   width:15em;
-}
-
-.gallery-video{
-  margin:0.5em;
-  width:45em;
-}
-
-.gallery-image img,
-.gallery-video iframe{
-  width:100%;
   border:0.1em solid #0C4466;
 }
 
-.gallery-image div,
-.gallery-video div{
+.gallery-item iframe{
+  width:45em;
+  border:0.1em solid #0C4466;
+}
+
+.gallery-item div{
   font-size:small;
   padding:1em;
   text-align:center;
