@@ -28,7 +28,7 @@ a{
 }
 
 .gallery-image img,
-.gallery-video video{
+.gallery-video iframe{
   width:100%;
   border:0.1em solid #0C4466;
 }
