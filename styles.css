@@ -19,13 +19,12 @@ a{
 
 .gallery-item{
   margin:0.5em;
-  border:0.1em solid #0C4466;
   width:15em;
 }
 
 .gallery-item img{
   width:100%;
-  border-bottom:0.1em solid #0C4466;
+  border:0.1em solid #0C4466;
 }
 
 .gallery-item div{
