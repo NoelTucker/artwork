@@ -27,11 +27,6 @@ a{
   border:0.1em solid #0C4466;
 }
 
-.gallery-item iframe{
-  width:45em;
-  border:0.1em solid #0C4466;
-}
-
 .gallery-item div{
   font-size:small;
   padding:1em;
