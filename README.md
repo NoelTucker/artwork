@@ -1,2 +1,2 @@
-# artwork
-A directory redirect
+# Portfolio redirect
+A redirect to my artwork portfolio
